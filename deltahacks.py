@@ -41,7 +41,7 @@ organic = ['Egg', "Food", "Paper Towel", "Vegetable", "Fruit"]
  
  
  
-cred = credentials.Certificate("INSET CREDENTIALS")
+cred = credentials.Certificate("INSERT CREDENTIALS")
 
 
 
