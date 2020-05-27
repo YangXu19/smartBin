@@ -1,5 +1,5 @@
 # smartBin
-IoT Hack for DeltaHacks VI
+IoT Hack for DeltaHacks VI. Check it out here: https://devpost.com/software/smartbin-sy4pik
 
 ## Inspiration 
 Waste Management: Despite having bins with specific labels, people often put waste into the wrong bins which can lead to unnecessary plastic/recyclables in landfills.
